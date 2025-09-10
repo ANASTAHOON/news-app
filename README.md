@@ -1,16 +1,14 @@
-# news_app
+News App
+A simple Flutter application built to practice using ListView.builder with both horizontal and vertical lists in the same screen.
 
-A new Flutter project.
+Features
+Category List (Horizontal): Select a news category from a scrollable horizontal list.
+News List (Vertical): Display news items (image + title) related to the selected category.
+Save News: Option to save specific news articles in a separate section for later access.
 
-## Getting Started
+Purpose
+This project was mainly created to strengthen my understanding of ListView.builder, handling multiple lists in Flutter, and building a clean and reusable UI.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technologies
+Flutter
+Dart
